@@ -1,2 +1,2 @@
 # Dashboard
-A Dynamic Dasgboard Utility for the Coldbox Framework
+A Dynamic Dashboard Utility for the Coldbox Framework
